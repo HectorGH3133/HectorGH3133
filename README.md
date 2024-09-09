@@ -14,3 +14,4 @@
 <a href="https://dotnet.microsoft.com/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="dotnet" height="30" width="30" /></a>
 <a href="https://www.w3schools.com/cs/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="30" width="30" /></a>
 <a href="https://visualstudio.microsoft.com/es/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="c++" height="30" width="30" /></a>
+<a href="https://visualstudio.microsoft.com/es/" target="blank"><img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="visual" height="30" width="30" /></a>
