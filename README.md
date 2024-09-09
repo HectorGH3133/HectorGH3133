@@ -3,7 +3,7 @@
 
 <h3 align="left">Redes / Contacto:</h3>
 <p align="left">
-<a href="https://discord.gg/z7CyAyRNG2" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png" alt="z7CyAyRNG2" height="30" width="40" /></a>
+<a href="https://discord.gg/z7CyAyRNG2" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3110/PNG/512/discord_icon_191752.png" alt="z7CyAyRNG2" height="30" width="40" /></a>
 <a href="https://steamcommunity.com/profiles/76561199021821056" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png" alt="" height="30" width="40" /></a>
 </p>
 
