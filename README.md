@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="left">Herramientas que uso:</h3>
-<a href="https://www.arduino.cc/" target="blank"><img align="left" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="30" width="30" /></a>
+<a href="https://www.arduino.cc/" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="30" width="30" /></a>
 <a href="https://www.w3schools.com/cs/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="30" width="30" /></a>
 <a href="https://dotnet.microsoft.com/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="dotnet" height="30" width="30" /></a>
 <a href="https://www.python.org" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="30" width="30" /></a>
