@@ -1,7 +1,7 @@
 <h1 align="center">Hola :D</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hectorgh3133&label=stalkers&color=91ee53&style=plastic" alt="hectorgh3133" /> </p>
 
-<h3 align="left">Redes / Contacto:</h3>
+<h3 align="left">Redes:</h3>
 <p align="left">
 <a href="https://discord.gg/z7CyAyRNG2" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3110/PNG/512/discord_icon_191752.png" alt="z7CyAyRNG2" height="40" width="40" /></a>
 <a href="https://steamcommunity.com/profiles/76561199021821056" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png" alt="" height="40" width="40" /></a>
