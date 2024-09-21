@@ -14,6 +14,6 @@
 <a href="https://visualstudio.microsoft.com/es/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="c++" height="30" width="30" /></a>
 <a href="https://visualstudio.microsoft.com/es/" target="blank"><img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="visual" height="30" width="30" /></a>
 
-<h3 align="left">Herramientas que uso: {no siempre}</h3>
+<h3 align="left">Herramientas que uso: {no tanto}</h3>
 <a href="https://www.arduino.cc/" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="30" width="30" /></a>
 <a href="https://unrealengine.com/" target="blank"><img src="https://cdn.icon-icons.com/icons2/615/PNG/256/Unreal_Engine_icon-icons.com_56587.png" alt="unreal" height="30" width="30" /></a>
